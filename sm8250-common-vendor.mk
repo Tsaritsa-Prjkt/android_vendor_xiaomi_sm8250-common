@@ -182,12 +182,19 @@ PRODUCT_PACKAGES += \
     libFileMux_proprietary \
     libadm \
     libadpcmdec \
+    libaudioparsers \
+    libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libcapiv2svarnn \
     libcapiv2vop \
+    libcomprcapture \
+    libexthwplugin \
     libfastcrc \
     libgcs-osal \
+    libhdmiedid \
+    libhdmipassthru \
+    libhfp \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
     libmmosal_vendor \
@@ -202,6 +209,8 @@ PRODUCT_PACKAGES += \
     libqcodec2_v4l2codec \
     libqtigef \
     libsmwrapper \
+    libsndmonitor \
+    libspkrprot \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
